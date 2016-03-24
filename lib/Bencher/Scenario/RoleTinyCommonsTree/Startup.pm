@@ -8,6 +8,8 @@ our $scenario = {
         'Role-TinyCommons-Tree distribution',
     module_startup => 1,
     modules => {
+        'Code::Includable::Tree::NodeMethods'  => {version=>0.06},
+        'Role::TinyCommons::Tree::NodeMethods' => {version=>0.06},
     },
     participants => [
         {module=>'Scalar::Util'},
