@@ -1,5 +1,10 @@
 Revision history for Bencher-Scenarios-RoleTinyCommonsTree
 
+0.03    2016-07-03 (PERLANCAR)
+
+	- Adjust to Tree-Object 0.03+ (Tree::Object::Hash).
+
+
 0.02    2016-03-24 (PERLANCAR)
 
 	- Add scenario: RoleTinyCommonsTree::descendants.
